@@ -12,14 +12,11 @@ Desenvolvendo em Front End até o momento!
 
 #
 
-<br>
-
-<img align=center src="https://i.pinimg.com/originals/e5/01/d8/e501d8cc387ad6fdf7d32f711627f299.gif">
-
-<br>
+<div align=center>
+<img src="https://i.pinimg.com/originals/e5/01/d8/e501d8cc387ad6fdf7d32f711627f299.gif">
+</div>
 
 #
-
 
 <h3 align="center">Trabalhando com:</h3>
 <div align="center">
