@@ -12,7 +12,7 @@ Desenvolvendo em Front End até o momento!
 
 #
 
-<img align="center" alt="" src="https://i.pinimg.com/originals/e5/01/d8/e501d8cc387ad6fdf7d32f711627f299.gif">
+<img align="left" alt="" src="https://i.pinimg.com/originals/e5/01/d8/e501d8cc387ad6fdf7d32f711627f299.gif">
 
 #
 
