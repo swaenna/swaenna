@@ -11,10 +11,15 @@ Adoro tecnologia, design, música, cinema, jogos e tudo que engloba a cultura po
 Desenvolvendo em Front End até o momento!
 
 #
+
 <br>
-<img align="center" alt="" src="https://i.pinimg.com/originals/e5/01/d8/e501d8cc387ad6fdf7d32f711627f299.gif">
+
+<img align=center src="https://i.pinimg.com/originals/e5/01/d8/e501d8cc387ad6fdf7d32f711627f299.gif">
+
 <br>
+
 #
+
 
 <h3 align="center">Trabalhando com:</h3>
 <div align="center">
