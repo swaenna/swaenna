@@ -4,14 +4,16 @@
   </a>
 </div>
 
+#
 
 <p align="center">Estudante de Análise e Desenvolvimento de Sistemas! Atualmente não atuo profissionalmente na área e estou iniciando meu desenvolvimento!
 Adoro tecnologia, design, música, cinema, jogos e tudo que engloba a cultura pop!
 Desenvolvendo em Front End até o momento!
 
+#
 
-<h3 align="left">Trabalhando com:</h3>
-<div align="left">
+<h3 align="center">Trabalhando com:</h3>
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="25" alt="html5 logo"  />
   <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="25" alt="css3 logo"  />
@@ -20,9 +22,10 @@ Desenvolvendo em Front End até o momento!
   <img width="8" />
 </div>
 
+#
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/swaenna/swaenna/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/swaenna/swaenna/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mari4souza/swaenna/swaenna/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/swaenna/swaenna/output/github-contribution-grid-snake.svg">
 </picture>
